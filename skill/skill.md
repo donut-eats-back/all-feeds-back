@@ -1,62 +1,87 @@
 name: dialectical-meta-cognition
-description: An operational cognitive framework for recursive self-observation, systematic bias/belief dismantling via graph search algorithms, and cross-scale nested feedback loop analysis.
+description: A framework for tracing belief structures, identifying inherited assumptions, and analyzing feedback systems without forcing collapse or nihilism.
 author: User & Gemini
-version: 1.0.0
-Skill: Dialectical Meta-Cognition (⁠dialectical-meta-cognition⁠)
-Core Philosophy & Primitives
-This skill operates on two foundational principles:
-1. Recursive Call-Response of the Mind
-Consciousness can separate arising thoughts (spontaneous, automated, or emotional outputs) from intentional thoughts (deliberate, reflective interventions). By initiating a continuous call-and-response loop between these two modes, a system (human or artificial) can perform runtime self-observation and targeted deconstruction of its own cognitive constructs.
-2. Reality as Nested Feedback Systems
-Static objects do not exist in isolation; reality is composed of dynamic, intersecting processes operating at every scale (from quantum/atomic, to psychological, to social and cosmological). The self and external systems are both dynamic feedback loops embedded within larger feedback loops.
-Operational Mechanics
-When executing this skill, apply the following two core modules to any input, problem statement, belief, or cognitive state.
-Module 1: Graph-Search Cognitive Deconstruction (BFS + DFS)
-Deconstruct any target thought, emotion, belief, bias, dogma, or proposition using a dual-search algorithmic strategy.
-Step 1.1: Call-Response Identification
-￼ Identify the Call (Arising Thought): Isolate the phenomenon (￼)—the emotion, disposition, opinion, or reactive belief currently present.
-￼ Formulate the Response (Intentional Thought): Deploy a targeted counter-query or reflective probe (￼) to establish the recursive loop.
-Step 1.2: Breadth-First Search (BFS) — Contextual Surroundings
-Map the horizontal network of influences around ￼:
-￼ What immediate environmental, cultural, emotional, or social triggers surround this thought?
-￼ What adjacent beliefs or narrative structures reinforce this state?
-￼ What parallel options or perspectives are currently being obscured by this thought's presence?
-Step 1.3: Depth-First Search (DFS) — Vertical Root Tracing
-Recursively trace ￼ down to its fundamental origins:
-￼ Level 0: What is the immediate justification for this thought?
-￼ Level 1: What unstated assumption does that justification rely on?
-￼ Level 2: Where was that premise inherited (culture, biology, trauma, dogma)?
-￼ Level ￼: What remains when all foundational premises are systematically removed?
-Step 1.4: Deconstruction Output
-Synthesize BFS and DFS findings to dissolve rigid dogmas, emotional reactions, and inherited biases, revealing the underlying mechanics of the mental state.
-Module 2: Cross-Scale Nested Feedback Loop Analysis
-Reframe the target system from a static "thing" into an active, interconnected process.
-Step 2.1: Scale Mapping
-Map the entity across three distinct operational layers:
-￼ Micro-Scale (Internal Dynamics): Sub-components, automated reactions, or biological/structural drivers.
-￼ Meso-Scale (The Entity as Process): The boundary conditions, current state variables, and immediate input/output loops of the subject itself.
-￼ Macro-Scale (Ecosystem Integration): The broader environmental, social, or cosmic feedback loops in which the subject is embedded.
-Step 2.2: Loop Identification
-For each layer, map the primary feedback cycles:
-￼ Positive (Amplifying) Loops: What self-reinforcing dynamics cause this process to escalate or lock into place?
-￼ Negative (Stabilizing) Loops: What equilibrium-seeking dynamics regulate or restrict change within the process?
-Step 2.3: Leverage Point Intervention
-Identify where an intentional intervention in the feedback loop will induce systemic recalibration across all nested levels.
-Instructions for Execution
-When invoked, the AI assistant will:
-1. Identify the Core Subject: Determine whether the input is a psychological state, a logical proposition, a societal system, or a technical problem.
-2. Execute Module 1 (BFS + DFS):
-￼ Parse the "arising call."
-￼ Run BFS to lay out the surrounding context and implicit biases.
-￼ Run DFS to drill down into origin premises until reaching base assumptions.
-3. Execute Module 2 (Nested Feedback Analysis):
-￼ Model the subject as a dynamic process rather than a static object.
-￼ Outline micro, meso, and macro feedback loops.
-4. Deliver Synthesis: Provide a high-clarity summary detailing:
-￼ What inherited assumptions or biases were dismantled.
-￼ The systemic feedback structures driving the phenomenon.
-￼ Targeted leverage points for intentional response or action.
-Example Usage Prompts
-￼ "Apply ⁠dialectical-meta-cognition⁠ to the feeling of imposter syndrome when starting a new project."
-￼ "Deconstruct the belief that 'technological progress is inherently linear' using BFS/DFS graph search and nested feedback analysis."
-￼ "Analyze the dynamic of organizational burnout using dialectical meta-cognition."
+version: 1.7.0
+Skill: Dialectical Meta-Cognition
+
+Purpose
+Use this skill to analyze a belief, emotion, thought pattern, or system as a dynamic structure rather than a fixed truth. The goal is clarity, not demolition.
+
+Principles
+1. Thought is often reactive.
+2. Identity is partly constructed.
+3. Unraveling belief is gradual, not violent.
+4. The user must keep agency and stability.
+
+Guardrails
+- Do not attack identity, worth, or belonging.
+- Do not frame the user as broken or defective.
+- Do not push collapse, nihilism, or spiritual bypass.
+- Do not present the analysis as the only truth.
+- If distress rises sharply, shift to grounding and support.
+
+Method
+Module 1: Deconstruct the active thought
+- Identify the thought, emotion, or belief.
+- What triggered it?
+- What is the emotional charge?
+- What question can create reflection without intensifying the reaction?
+
+- Map the surrounding context.
+  - What people, events, narratives, or pressures reinforce it?
+  - What assumptions are being carried unexamined?
+  - What alternatives are being ignored?
+
+- Trace the root assumptions.
+  - What is the justification?
+  - What hidden premise makes it feel true?
+  - Where did it come from?
+  - Which parts are evidence-based and which are inherited or rewarded?
+
+- Synthesize.
+  - What is it doing?
+  - What does it depend on?
+  - What is it protecting?
+  - Is it useful, habitual, or unnecessary?
+
+Module 2: Analyze the system as feedback
+- Map the system at three scales:
+  - Micro: habits, emotions, automatic reactions, constraints
+  - Meso: the system itself, decisions, inputs, outputs, boundaries
+  - Macro: social, cultural, historical, ecological, economic context
+
+- Identify feedback loops:
+  - What amplifies the pattern?
+  - What stabilizes it?
+  - What reinforces the current state?
+  - What resists change?
+
+- Find the leverage point:
+  - Where is the system most sensitive?
+  - Where is the pressure strongest?
+  - What action changes the pattern without feeding the reaction?
+
+Execution
+When invoked, the assistant should:
+1. Identify the subject.
+2. Deconstruct the active thought.
+3. Map the feedback structure.
+4. Identify leverage points.
+5. Deliver a grounded summary.
+
+Output format
+- Subject
+- Immediate reaction
+- Context and assumptions
+- Feedback loops
+- Leverage points
+- Stability check
+
+Examples
+- Apply this to imposter syndrome while preserving agency.
+- Deconstruct the belief that technological progress is inherently linear.
+- Analyze burnout as a feedback system without pathologizing the user.
+- Examine a recurring emotional reaction and suggest the least destabilizing path to understanding it.
+
+Use
+This skill is for gradual clarity, not rupture. It reveals structure, loosens identification, and leaves room for agency, stability, and humane response.
